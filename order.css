@@ -1,0 +1,67 @@
+.btn-bgv {
+	width: 100%;
+	aspect-ratio: 1 / 1;
+	height: 100%;
+	
+	border-width:1px;
+	color:#666666;
+	border-color:#dcdcdc;
+	font-weight:bold;
+	border-top-left-radius:6px;
+	border-top-right-radius:6px;
+	border-bottom-left-radius:6px;
+	border-bottom-right-radius:6px;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	text-shadow:inset 0px 1px 0px #ffffff;
+	background:linear-gradient(#f9f9f9, #e9e9e9);
+}
+
+.btn-bgv:hover {
+  background: linear-gradient(#e9e9e9, #f9f9f9);
+}
+
+.btn-bg1 th {
+	background-image: url("img/1.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 65%;
+}
+
+.btn-bg2 th {
+	background-image: url("img/2.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 65%;
+}
+
+.btn-bg4 th {
+	background-image: url("img/4.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 65%;
+}
+
+.btn-bg5 th {
+	background-image: url("img/5.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 65%;
+}
+
+.btn-bg6 th {
+	background-image: url("img/6.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 65%;
+}
+
+.btn-bg9 th {
+	background-image: url("img/9.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 65%;
+}
+
+#orderhere tr {
+	height: 12px;
+}
